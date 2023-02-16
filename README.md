@@ -5,3 +5,4 @@
 
 ## US Airline
 Build the dashboard to visualize U.S. domestic airline data.
+![image](https://github.com/FuHsuan-Hsu/side_project/blob/main/01.jpg)
